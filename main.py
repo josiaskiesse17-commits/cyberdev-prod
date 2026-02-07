@@ -1,2 +1,2 @@
 print " welcome to cyberdeb mr josias "
-print " ( 10 % 2 ) "
+print " ( 10 / 2 ) "
